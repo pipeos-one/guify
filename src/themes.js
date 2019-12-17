@@ -64,7 +64,7 @@ module.exports = {
 
         //Optional
         font: {
-            fontFamily: `helvetica, sans-serif`,
+            fontFamily: `Roboto Condensed, helvetica, sans-serif`,
             fontSize: '14px',
             fontWeight: '100'
         },
